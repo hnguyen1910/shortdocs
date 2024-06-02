@@ -31,7 +31,7 @@ Welcome to the r.tinvn.eu.org API! You can use our API to access r.tinvn.eu.org 
 
 <aside class="notice">
 Xác minh hiện không cần thiết. Nó có thể sẽ cần thiết trong tương lai.
-
+<br>
 Authentication is not required right now. It may be required in the future.
 </aside>
 
@@ -79,11 +79,6 @@ Create a new shortened url
 Parameter | Required | Description
 --------- | ------- | -----------
 url | yes | Url cần rút gọn / Url need to be shortened
-
-<aside class="success">
-Vậy là hết! / That's all!
-</aside>
-
 
 
 
